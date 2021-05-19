@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Update Form Matches Snapshot 1`] = `
+<div>
+  <form
+    data-testid="update form"
+    onSubmit={[Function]}
+  >
+    <input
+      data-testid="Update event name"
+      id="outlined-basic"
+      onChange={[Function]}
+      placeholder="Event name"
+      required={true}
+      type="text"
+      value=""
+    />
+    <br />
+    <input
+      data-testid="Update start date"
+      id="outlined-basic"
+      onChange={[Function]}
+      placeholder="Start date"
+      required={true}
+      type="text"
+      value=""
+      variant="outlined"
+    />
+    <br />
+    <input
+      data-testid="Update end date"
+      id="outlined-basic"
+      onChange={[Function]}
+      placeholder="End date"
+      required={true}
+      type="text"
+      value=""
+      variant="outlined"
+    />
+    <div>
+      <button
+        type="submit"
+      >
+        Update Event
+      </button>
+    </div>
+  </form>
+</div>
+`;

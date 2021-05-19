@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- "react-datepicker": "^3.8.0",
+
+// const rendered=()=>{
+    //     return events.map(event=>{
+    //         console.log('----',post)
+    //         return (event.summary!=='Monthly Meet Up and Birthday Bash' && <div className="item" key={event.id} >
+    //             <div className="content">
+    //                     <h3>{event.summary}</h3>
+    //                     <h4>{`Date : ${event.start.dateTime.slice(0,10)} `}</h4>
+    //                     <a target="_blank" href={event.htmlLink}>View in calendar</a>
+    //             </div>    
+    //         </div>);
+    //     });
+    //   }
+     -->
+
+     <!-- export default connect(mapStateToProps,{signIn,signOut})(GoogleAuth) -->
