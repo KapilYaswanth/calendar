@@ -1,6 +1,7 @@
-export const signIn=(userId)=>{
+export const signIn=(mail)=>{
     return {type:'SIGN_IN',
-            payload:userId}
+            payload:mail
+           }
 }
 export const signOut=()=>{
     return {type:'SIGN_OUT'}

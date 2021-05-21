@@ -175,5 +175,12 @@ exports[`Create Insert Form Matches Snapshot 1`] = `
       </button>
     </div>
   </form>
+    
+  <button
+    className="button"
+    onClick={[Function]}
+  >
+    Go back
+  </button>
 </div>
 `;
